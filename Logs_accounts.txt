@@ -1,0 +1,8 @@
+{
+    "Mxlfunction0012@outlook.com": {
+        "Last check": "2023-05-09",
+        "Today's points": 491,
+        "Points": 2227
+    },
+    "Elapsed time": "00:13:19"
+}
